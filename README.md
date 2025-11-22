@@ -56,25 +56,6 @@ A minimal full-stack web application where users can enter natural-language prom
 
 ---
 
-## 🗄️ ER Diagram
-
-Below is the ER diagram used in this project:
-
-![ER Diagram](./frontend/assets/ER_Diagram.png)
-
-
-
-## 📸 Screenshots
-
-### 🏠 Home Page
-![Home Page](./frontend/assets/Home_Page.png)
-
-### ⚙️ Code Generation Page
-![Code Generation](./frontend/assets/CG1.png)
-![Code Generation](./frontend/assets/CG2.png)
-
-
-
 ---
 
 ## 📁 Project Folder Structure
