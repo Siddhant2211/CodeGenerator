@@ -1,8 +1,6 @@
 # 🚀 Code Generation Copilot
 
-<<<<<<< HEAD
-A minimal full-stack web application that lets users enter natural-language prompts, choose a programming language, and generate AI-powered code. Users can also view their generation history, save favorites, and interact with a clean, responsive UI.
-=======
+
 A minimal full-stack web application where users can enter natural-language prompts, choose a programming language, and generate AI-powered code. Users can also view their previous code generations with a secure backend and relational database.
 
 
@@ -10,7 +8,7 @@ A minimal full-stack web application where users can enter natural-language prom
 
 ## 📌 Features
 
-<<<<<<< HEAD
+
 - Generate code from natural-language prompts  
 - Choose programming languages  
 - Authentication (Register + Login)  
@@ -19,7 +17,6 @@ A minimal full-stack web application where users can enter natural-language prom
 - Responsive, modern UI  
 - Relational database with a clean ER schema  
 - AI model provider support (OpenAI, Gemini, Claude etc.)
-=======
 - Natural language → AI-generated code
 - Choose any programming language
 - View previous generations
@@ -34,20 +31,14 @@ A minimal full-stack web application where users can enter natural-language prom
 
 ## 🏗️ Tech Stack
 
-<<<<<<< HEAD
-### Frontend (client/)
-=======
-### Frontend
 
+### Frontend 
 - React / Next.js  
 - Tailwind CSS  
 - ShadCN/UI  
 
 ### Backend
 - Node.js  
-<<<<<<< HEAD
-- Express.js  
-=======
 - Express.js (or Fastify)  
 
 - REST API  
@@ -56,7 +47,7 @@ A minimal full-stack web application where users can enter natural-language prom
 - MySQL / PostgreSQL  
 - Prisma / Sequelize ORM  
 
-<<<<<<< HEAD
+
 ### AI Models
 - OpenAI  
 - Gemini  
@@ -71,7 +62,7 @@ Below is the ER diagram used in this project:
 
 ![ER Diagram](./frontend/assets/ER_Diagram.png)
 
----
+
 
 ## 📸 Screenshots
 
@@ -95,7 +86,6 @@ Below is the ER diagram used in this project:
 - Claude  
 - Any API-based model
 
----
 
 ## 🗄️ ER Diagram (Tables)
 
@@ -105,9 +95,6 @@ Below is the ER diagram used in this project:
 - generations  
 - favorites
 
-(DBML code already provided)
-
----
 
 ## ⚙️ Workflow
 
