@@ -4,7 +4,7 @@
 A minimal full-stack web application that lets users enter natural-language prompts, choose a programming language, and generate AI-powered code. Users can also view their generation history, save favorites, and interact with a clean, responsive UI.
 =======
 A minimal full-stack web application where users can enter natural-language prompts, choose a programming language, and generate AI-powered code. Users can also view their previous code generations with a secure backend and relational database.
->>>>>>> 49d3715a6b2a27db24e3d9e3b23ef3c03b437a95
+
 
 ---
 
@@ -28,7 +28,7 @@ A minimal full-stack web application where users can enter natural-language prom
 - Responsive frontend UI
 - Scalable backend API
 - Relational database schema
->>>>>>> 49d3715a6b2a27db24e3d9e3b23ef3c03b437a95
+
 
 ---
 
@@ -38,7 +38,7 @@ A minimal full-stack web application where users can enter natural-language prom
 ### Frontend (client/)
 =======
 ### Frontend
->>>>>>> 49d3715a6b2a27db24e3d9e3b23ef3c03b437a95
+
 - React / Next.js  
 - Tailwind CSS  
 - ShadCN/UI  
@@ -49,7 +49,7 @@ A minimal full-stack web application where users can enter natural-language prom
 - Express.js  
 =======
 - Express.js (or Fastify)  
->>>>>>> 49d3715a6b2a27db24e3d9e3b23ef3c03b437a95
+
 - REST API  
 
 ### Database
@@ -121,5 +121,5 @@ Below is the ER diagram used in this project:
 ---
 
 ## 📁 Recommended Folder Structure
->>>>>>> 49d3715a6b2a27db24e3d9e3b23ef3c03b437a95
+
 
